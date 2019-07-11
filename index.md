@@ -6,7 +6,7 @@ Apland wird eine GmbH im Besitz von [Janik Vonrotz](https://janikvonrotz.ch).
 
 Apland wird eine GmbH im Besitz von [Janik Vonrotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt.
 
-Apland wird eine GmbH im Besitz von [Janik Vonrotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt, die begeistern.
+Apland wird eine GmbH im Besitz von [Janik Vonrotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt, die begeistern 🎉!
 
 So viel zur Idee.
 
@@ -76,14 +76,14 @@ Wir möchten ein Netzwerk sein, das Projekte konzeptionell und technisch angehen
 
 ## Referenzen
 
-Referenzen sind wichtig (sonst glaub dir ja niemand).
+Referenzen sind wichtig (sonst glaubt dir ja niemand).
 
-*Die kommen noch, braucht ein bisschen mehr Zeit.*
+Die kommen noch, braucht ein bisschen mehr Zeit 😉.
 
 ## Kontakt
 
 Schreib mir deine Meinung oder falls du Interesse an einer Zusammenarbeit hast, umso besser.
 
-[Mail an Janik Vonrotz](mailto:contact@janikvonrotz.ch) 
+[📧 an Janik Vonrotz](mailto:contact@janikvonrotz.ch)
 
 ![](/assets/005-team.png)
