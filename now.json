@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "name": "apland.ch",
+  "builds": [
+    {
+      "src": "/assets/*",
+      "use": "@now/static"
+    },
+    {
+      "src": "**/*.md",
+      "use": "@now/md",
+      "config": {
+        "title": "Apland GmbH",
+        "language": "en",
+        "meta": [{ "name": "description", "content": "Apland GmbH"}],
+        "css": "/assets/style.css"
+      }
+    }
+  ]
+}
