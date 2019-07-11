@@ -1,12 +1,12 @@
-# Apland GmbH
+# Apland
 
-Apland wird eine GmbH.
+Apland wird ein Unternehmen.
 
-Apland wird eine GmbH im Besitz von [Janik Vonrotz](https://janikvonrotz.ch).
+Apland wird ein Unternehmen im Besitz von [Janik Vonrotz](https://janikvonrotz.ch).
 
-Apland wird eine GmbH im Besitz von [Janik Vonrotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt.
+Apland wird ein Unternehmen im Besitz von [Janik Vonrotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt.
 
-Apland wird eine GmbH im Besitz von [Janik Vonrotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt, die begeistern 🎉!
+Apland wird ein Unternehmen im Besitz von [Janik Vonrotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt, die begeistern 🎉!
 
 So viel zur Idee.
 
