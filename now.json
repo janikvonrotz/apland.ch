@@ -10,9 +10,9 @@
       "src": "**/*.md",
       "use": "@now/md",
       "config": {
-        "title": "Apland GmbH",
-        "language": "en",
-        "meta": [{ "name": "description", "content": "Apland GmbH"}],
+        "title": "Apland",
+        "language": "de",
+        "meta": [{ "name": "description", "content": "Apland"}],
         "css": "/assets/style.css"
       }
     }
