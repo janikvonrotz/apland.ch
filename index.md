@@ -1,14 +1,14 @@
 ![Apland - Janik von Rotz](/assets/logo.png)
 
-"Apland - Janik von Rotz" ist ein Einzelunternehmen im Besitz von [Janik von Rotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt.
+"Apland - Janik von Rotz" ist ein Einzelunternehmen von [Janik von Rotz](https://janikvonrotz.ch) und es entwickelt Webapplikationen.
 
-So viel zur Idee.
+Das ist so in etwa die Idee.
 
 Es steht noch nicht viel fest, aber die folgenden Dinge schon:
 
 ## Unsere Werte
 
-So wollen wir sein:
+So soll Apland sein:
 
 * Partnerschaftlich
 * Unkompliziert
@@ -16,13 +16,19 @@ So wollen wir sein:
 
 ![](/assets/006-value.png)
 
-Ist ja eigentlich nur Geschwätz, aber es lohnt sich das zu definieren. Vor allem wenn es längerfristig wird.
+Das sagt nicht viel aus, aber es lohnt sich das zu definieren. Vor allem wenn es längerfristig wird.
+
+## Referenzen
+
+Referenzen sind wichtig (sonst glaubt dir ja niemand).
+
+Die kommen noch, braucht ein bisschen mehr Zeit.
 
 ## Vorgehen
 
-Du möchtest eine Webapplikation? Damit können wir helfen.
+Du möchtest eine Webapplikation? Damit kann ich helfen.
 
-Eine Webapplikation entwickeln wir in 4 Phasen:
+Eine Webapplikation wird in 4 Phasen entwickelt:
 
 1. Offerte
 2. Analyse
@@ -62,22 +68,10 @@ Eine Webapplikation entwickeln wir in 4 Phasen:
 
 ![](/assets/004-support.png)
 
----
-
-## Ziel
-
-Wir möchten ein Netzwerk sein, das Projekte konzeptionell und technisch angehen und erledigen kann.
-
-## Referenzen
-
-Referenzen sind wichtig (sonst glaubt dir ja niemand).
-
-Die kommen noch, braucht ein bisschen mehr Zeit 😉.
-
 ## Kontakt
 
 Schreib mir deine Meinung oder falls du Interesse an einer Zusammenarbeit hast, umso besser.
 
-[📧 an Janik Vonrotz](mailto:contact@janikvonrotz.ch)
+[Mail an Janik Vonrotz](mailto:contact@janikvonrotz.ch)
 
 ![](/assets/005-team.png)
