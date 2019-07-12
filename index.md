@@ -1,12 +1,6 @@
-# Apland
+# Apland - Janik von Rotz
 
-Apland wird ein Unternehmen.
-
-Apland wird ein Unternehmen im Besitz von [Janik Vonrotz](https://janikvonrotz.ch).
-
-Apland wird ein Unternehmen im Besitz von [Janik Vonrotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt.
-
-Apland wird ein Unternehmen im Besitz von [Janik Vonrotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt, die begeistern 🎉!
+"Apland - Janik von Rotz" ist ein Einzelunternehmen im Besitz von [Janik von Rotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt.
 
 So viel zur Idee.
 
