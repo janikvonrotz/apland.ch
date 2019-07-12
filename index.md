@@ -1,4 +1,4 @@
-# Apland - Janik von Rotz
+![Apland - Janik von Rotz](/assets/logo.png)
 
 "Apland - Janik von Rotz" ist ein Einzelunternehmen im Besitz von [Janik von Rotz](https://janikvonrotz.ch) und es werden Webapplikationen entwickelt.
 
