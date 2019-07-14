@@ -6,7 +6,7 @@ Das ist so in etwa die Idee.
 
 Es steht noch nicht viel fest, aber die folgenden Dinge schon:
 
-## Unsere Werte
+## Werte
 
 So soll Apland sein:
 
@@ -72,6 +72,6 @@ Eine Webapplikation wird in 4 Phasen entwickelt:
 
 Schreib mir deine Meinung oder falls du Interesse an einer Zusammenarbeit hast, umso besser.
 
-[Mail an Janik Vonrotz](mailto:contact@janikvonrotz.ch)
+[Mail an Janik von Rotz](mailto:contact@janikvonrotz.ch)
 
 ![](/assets/005-team.png)
