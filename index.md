@@ -1,10 +1,6 @@
 ![Apland - Janik von Rotz](/assets/logo.png)
 
-"Apland - Janik von Rotz" ist ein Einzelunternehmen von [Janik von Rotz](https://janikvonrotz.ch) und es entwickelt Webapplikationen.
-
-Das ist so in etwa die Idee.
-
-Es steht noch nicht viel fest, aber die folgenden Dinge schon:
+"Apland - Janik von Rotz" ist eine [Einzelfirma](https://einzelfirma.ch/) von [Janik von Rotz](https://janikvonrotz.ch) und es entwickelt Webapplikationen.
 
 ## Werte
 
@@ -16,13 +12,21 @@ So soll Apland sein:
 
 ![](/assets/006-value.png)
 
-Das sagt nicht viel aus, aber es lohnt sich das zu definieren. Vor allem wenn es längerfristig wird.
-
 ## Referenzen
 
-Referenzen sind wichtig (sonst glaubt dir ja niemand).
+Erfolgreiche Projekte:
 
-Die kommen noch, braucht ein bisschen mehr Zeit.
+### Zenkom
+
+Zenkom ist die zentrale Kommunikationsplattform der vernetzten Fahrzeugsysteme. Es wurde für die [Verkehrsbetriebe Luzern AG](https://www.vbl.ch/) entwickelt. In dieser Webapplikation werden Kommunikationsgeräte, die in der Busflotte des Kunden verbaut werden, verwaltet.
+
+Webseite: [https://github.com/janikvonrotz/Zenkom](https://github.com/janikvonrotz/Zenkom)
+
+### Lorauna
+
+Lorauna ist eine Webapplikation zur Verwaltung einer Sauna-Landschaft. Der Verein [Sauna Lorrainebad](http://saunalorrainebad.ch/) betreibt im Winter mehrere Saunas im [Lorrainebad Bern](http://www.lorrainebad.ch/). Über die App werden Besucher Ein- und Ausgänge registriert sowie Temperaturen in der Sauna erfasst.
+
+Weitere Projekte: [https://janikvonrotz.ch/projects/](https://janikvonrotz.ch/projects/)
 
 ## Vorgehen
 
@@ -70,7 +74,7 @@ Eine Webapplikation wird in 4 Phasen entwickelt:
 
 ## Kontakt
 
-Schreib mir deine Meinung oder falls du Interesse an einer Zusammenarbeit hast, umso besser.
+Schreib mir ein Mail, falls du Interesse an einer Zusammenarbeit hast.
 
 [Mail an Janik von Rotz](mailto:contact@janikvonrotz.ch)
 
