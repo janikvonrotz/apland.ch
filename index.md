@@ -1,3 +1,4 @@
+
 ![Apland - Janik von Rotz](/assets/logo.png)
 
 Die Apland GmbH ist ein Unternehmen von [Janik von Rotz](https://janikvonrotz.ch) zur Entwicklung von Webapplikationen.
@@ -14,7 +15,7 @@ So soll Apland sein:
 
 ## Referenzen
 
-Erfolgreiche Projekte:
+Unsere Projekte:
 
 ### LabTrail
 
@@ -49,7 +50,7 @@ Eine Webapplikation wird in 4 Phasen entwickelt:
 
 * Kontakt
 * Interview Stakeholder
-* Gropkonzept
+* Grobkonzept
 * Offerte mit Schätzung
 
 ![](/assets/003-portfolio.png)
@@ -80,7 +81,7 @@ Eine Webapplikation wird in 4 Phasen entwickelt:
 
 ## Kontakt
 
-Falls Ihr Interesse geweckt wurde, können Sie uns gerne per Mail kontakiteren.
+Falls Ihr Interesse geweckt wurde, können Sie uns gerne per Mail kontaktieren.
 
 [contact@apland.ch](mailto:contact@apland.ch)
 
