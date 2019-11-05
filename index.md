@@ -35,50 +35,6 @@ Lorauna ist eine Webapplikation zur Verwaltung einer Sauna-Landschaft. Der Verei
 
 Weitere Projekte: [https://janikvonrotz.ch/projects/](https://janikvonrotz.ch/projects/)
 
-## Vorgehen
-
-Sie möchten eine Webapplikation? Damit können wir helfen.
-
-Eine Webapplikation wird in 4 Phasen entwickelt:
-
-1. Offerte
-2. Analyse
-3. Realisierung
-4. Support
-
-### Phase 1 - Offerte
-
-* Kontakt
-* Interview Stakeholder
-* Grobkonzept
-* Offerte mit Schätzung
-
-![](/assets/003-portfolio.png)
-
-### Phase 2 - Analyse
-
-* Detaillierte Anforderungen
-* Schnittstellenanalyse
-* Interview Stakeholder
-* Machbarkeitsnachweis (Proof of Concept)
-
-![](/assets/002-research.png)
-
-### Phase 3 - Realisierung
-
-* Iterative Entwicklung
-    * Implementation -> Testen -> Planen -> Anforderungsanalyse -> Systemdesign -> Implementation -> ...
-* Bereitstellung and Integration
-
-![](/assets/001-scrum.png)
-
-### Phase 4 - Support
-
-* Support und Beratung
-* Betrieb und Überwachung
-
-![](/assets/004-support.png)
-
 ## Kontakt
 
 Falls Ihr Interesse geweckt wurde, können Sie uns gerne per Mail kontaktieren.
