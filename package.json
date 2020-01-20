@@ -1,0 +1,27 @@
+{
+  "name": "apland.ch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build -d public index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janikvonrotz/apland.ch.git"
+  },
+  "author": "Janik Vonrotz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janikvonrotz/apland.ch/issues"
+  },
+  "homepage": "https://github.com/janikvonrotz/apland.ch#readme",
+  "dependencies": {
+    "reveal.js": "^3.8.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "standard": "^14.3.1"
+  }
+}
