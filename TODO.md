@@ -1,16 +1,24 @@
 # TODO
 
+## UI
+
+- [ ] Add menu button like https://www.bebold.ch/de/#home
+
+## Deploy
+
+- [x] Add Analytics
+
 ## Content
 
 - [ ] Mehr zur Person
-- [ ] Fertigstellen Prozessoptimierung
+- [x] Fertigstellen Prozessoptimierung
 - [ ] Kunden und Partner
 
 ## Style
 
-- [ ] Define color palette
-- [ ] Anpassen font
-- [ ] Front Seite mit Logo
-- [ ] Colorize background
+- [x] Define color palette
+- [x] Anpassen font
+- [x] Front Seite mit Logo
+- [x] Colorize background
 
-# Done
+# NODO
