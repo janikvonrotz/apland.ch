@@ -5,10 +5,10 @@ Reveal.initialize({
   progress: false
 })
 
-function openNav () {
+document.getElementById('open-nav').onclick = () => {
   document.getElementById('navigation').style.height = '100%'
 }
 
-function closeNav () {
+document.getElementById('navigation').onclick = () => {
   document.getElementById('navigation').style.height = '0%'
 }

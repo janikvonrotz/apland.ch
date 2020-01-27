@@ -73,7 +73,7 @@
     color: #3D6AF2;
 }
 
-.overlay-menu .close-nav {
+.overlay-menu #close-nav {
     cursor: pointer;
     position: absolute;
     top: 2px;
@@ -81,7 +81,7 @@
     font-size: 60px;
 }
 
-.open-nav {
+#open-nav {
     cursor: pointer;
     z-index: 98;
     color: #222;
