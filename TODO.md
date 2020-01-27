@@ -2,7 +2,7 @@
 
 ## UI
 
-- [ ] Add menu button like https://www.bebold.ch/de/#home
+- [x] Add menu button like https://www.bebold.ch/de/#home
 
 ## Deploy
 
@@ -20,5 +20,9 @@
 - [x] Anpassen font
 - [x] Front Seite mit Logo
 - [x] Colorize background
+
+## Bugs
+
+- [ ] Parcel cannot expose the navigation functions correctly
 
 # NODO
