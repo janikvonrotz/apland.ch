@@ -10,9 +10,10 @@
 
 ## Content
 
-- [ ] Mehr zur Person
+- [ ] Mehr zu meiner Person
 - [x] Fertigstellen Prozessoptimierung
 - [ ] Kunden und Partner
+- [ ] Angebot vom Excel zur Webapplikation in wenigen Schritten
 
 ## Style
 
