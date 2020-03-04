@@ -10,6 +10,7 @@
 
 ## Content
 
+- [ ] Link Standort with duckduckgo
 - [ ] Mehr zu meiner Person
 - [x] Fertigstellen Prozessoptimierung
 - [ ] Kunden und Partner
